@@ -1,0 +1,4 @@
+benchmark/cifar10/data/
+benchmark/mnist/data/
+log_result
+wandb/
